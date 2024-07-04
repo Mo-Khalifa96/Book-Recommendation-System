@@ -40,7 +40,7 @@
 | **genres**        | Genre labels applying to the book                                                                       |
 | **num_ratings**   | Total number of ratings                                                                                 |
 | **num_reviews**   | Total number of reviews                                                                                 |
-| **average_rating**    | Overall average rating score                                                                        |
+| **average_rating** | Overall average rating score                                                                           |
 | **rating_distribution** | Number of ratings per rating star (for a 5-point rating system)                                   |
 
 <br>
